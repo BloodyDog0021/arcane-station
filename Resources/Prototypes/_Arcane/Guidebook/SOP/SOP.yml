@@ -23,6 +23,7 @@
     - SOP-Cargo
     - SOP-Service
     - SOP-Alerts
+    - SOP-BureaucraticNorms
 
 - type: guideEntry
   id: SOP-CentralCommand
@@ -422,3 +423,9 @@
   name: guide-entry-sop-service-barber
   priority: 13
   text: "/ServerInfo/_Arcane/Guidebook/SOP/Service/Barber.xml"
+
+- type: guideEntry
+  id: SOP-BureaucraticNorms
+  name: guide-entry-sop-bureaucracy
+  priority: 10
+  text: "/ServerInfo/_Arcane/Guidebook/SOP/BureaucraticNorms.xml"

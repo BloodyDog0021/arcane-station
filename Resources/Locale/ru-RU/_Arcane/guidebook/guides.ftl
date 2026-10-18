@@ -18,3 +18,4 @@ guide-entry-sop-alerts-delta = Дельта код
 guide-entry-sop-alerts-protocol = Протокол уровней угроз
 guide-entry-space-law-use-of-force = Уровни Применения Силы (УПС)
 guide-entry-acts = Правовое
+guide-entry-sop-bureaucracy = Бюрократические нормы
