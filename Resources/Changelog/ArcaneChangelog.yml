@@ -2834,3 +2834,524 @@ Entries:
   time: '2026-10-07T04:06:39.0000000+00:00'
   prNumber: 435
   url: https://github.com/ArcaneSS14/arcane/pull/435
+- author: ReWAFFlution
+  changes:
+    - type: Tweak
+      message: Задержка на перекладывание в карман и предметов на спине вырезана.
+  id: 207
+  time: '2026-10-07T23:35:14.0000000+00:00'
+  prNumber: 484
+  url: https://github.com/ArcaneSS14/arcane/pull/484
+  media:
+    - >-
+      https://github.com/user-attachments/assets/d63bad28-54d7-41d3-8170-eae5fc428b68
+- author: ReWAFFlution
+  changes:
+    - type: Remove
+      message: Гостроль насильника вырезана.
+  id: 208
+  time: '2026-10-08T01:43:16.0000000+00:00'
+  prNumber: 485
+  url: https://github.com/ArcaneSS14/arcane/pull/485
+- author: Huwaiear
+  changes:
+    - type: Add
+      message: >-
+        Добавлен торшер для спавна мапперам и для крафта в разделе Мебель
+        обычным смертным
+  id: 209
+  time: '2026-10-08T02:48:04.0000000+00:00'
+  prNumber: 475
+  url: https://github.com/ArcaneSS14/arcane/pull/475
+  media:
+    - >-
+      https://github.com/user-attachments/assets/fe7d716b-2f6e-4432-a9b7-0b49e9340c18
+- author: ReWAFFlution, ThxMqninq, FunkyStation
+  changes:
+    - type: Add
+      message: Добавлено загрязнение одежды
+    - type: Add
+      message: Добавлена стиралка и возможность застрять в ней
+  id: 210
+  time: '2026-10-08T05:34:50.0000000+00:00'
+  prNumber: 382
+  url: https://github.com/ArcaneSS14/arcane/pull/382
+  media:
+    - >-
+      https://github.com/user-attachments/assets/1aa2af6f-7578-43d1-988b-093a10509469
+- author: darneya, IGRAMUR, qwertyuiopiot, changelingrueser
+  changes:
+    - type: Tweak
+      message: Изменён торговый аванпост Снабжения
+  id: 211
+  time: '2026-10-08T09:01:07.0000000+00:00'
+  prNumber: 465
+  url: https://github.com/ArcaneSS14/arcane/pull/465
+  media:
+    - >-
+      https://github.com/user-attachments/assets/8cc6c611-352c-439d-9464-2736f98fe4b2
+    - >-
+      https://github.com/user-attachments/assets/3c0ade84-0979-4ea4-829c-1fa8ffa751d0
+    - >-
+      https://github.com/user-attachments/assets/ccd00cfe-7d88-4a9f-923e-c7d0c3501adf
+- author: Kinar7
+  changes:
+    - type: Fix
+      message: >-
+        шлема боевых скафандров теперь имеют нормальные резисты и защищают
+        Голову, а не Тело
+  id: 212
+  time: '2026-10-08T09:04:30.0000000+00:00'
+  prNumber: 469
+  url: https://github.com/ArcaneSS14/arcane/pull/469
+- author: clopiks
+  changes:
+    - type: Add
+      message: Добавлена новая черта - конская натура.
+  id: 213
+  time: '2026-10-08T09:10:24.0000000+00:00'
+  prNumber: 431
+  url: https://github.com/ArcaneSS14/arcane/pull/431
+  media:
+    - https://github.com/user-attachments/files/33139033/Horse_scream.mp3
+    - https://github.com/user-attachments/files/33139034/Horse_death.mp3
+    - https://github.com/user-attachments/files/33139035/Horse_neighs.mp3
+    - https://github.com/user-attachments/files/33139036/Horse_snorts.mp3
+    - https://github.com/user-attachments/files/33139038/Horse_whinny.mp3
+    - https://github.com/user-attachments/files/33139039/Horse_whinny2.mp3
+    - https://github.com/user-attachments/files/33139040/Horse_crying.mp3
+    - https://github.com/user-attachments/files/33139042/Horse_laugh.mp3
+    - >-
+      https://github.com/user-attachments/assets/ac1e784b-8a14-48da-a943-1684decb4e13
+- author: Gebura1984
+  changes:
+    - type: Fix
+      message: Исправлено ослабление дизарма мелких кукл в сторону больших.
+  id: 214
+  time: '2026-10-08T09:12:31.0000000+00:00'
+  prNumber: 480
+  url: https://github.com/ArcaneSS14/arcane/pull/480
+- author: Axilmon
+  changes:
+    - type: Tweak
+      message: Измененн шрифт языка аркан на более читабельный
+    - type: Fix
+      message: Библиотекарскому переводчику добавлены языки аркан и ксеноморфов
+  id: 215
+  time: '2026-10-08T13:22:40.0000000+00:00'
+  prNumber: 398
+  url: https://github.com/ArcaneSS14/arcane/pull/398
+  media:
+    - >-
+      https://github.com/user-attachments/assets/1936750a-3407-4355-b549-457956331d18
+- author: RabbitBat
+  changes:
+    - type: Tweak
+      message: >-
+        Изменено наигрывание часов на Горничной Командования, теперь чтобы стать
+        ГК, вам нужно наиграть: 1) 30 часов общего времени, 2) 5 часов на
+        уборщике, 3) 2 часа за шеф-повара, 4) 2 часа за бармена
+    - type: Tweak
+      message: >-
+        Изменено наигрывание часов на Адъютанте, теперь вдобавок к 3 часам за
+        медицинский, инженерный, и охранный отдел, нужно наиграть 3 часа за
+        коммандный отдел.
+  id: 216
+  time: '2026-10-09T06:59:00.0000000+00:00'
+  prNumber: 491
+  url: https://github.com/ArcaneSS14/arcane/pull/491
+- author: ReWAFFlution
+  changes:
+    - type: Tweak
+      message: >-
+        Повышен шанс на выпадение еретиков и генокрадов засчёт понижения шанса
+        на предателей. Также увеличена выдача очков хаоса на игрока.
+  id: 217
+  time: '2026-10-09T13:13:23.0000000+00:00'
+  prNumber: 490
+  url: https://github.com/ArcaneSS14/arcane/pull/490
+- author: ChangelingRUES
+  changes:
+    - type: Tweak
+      message: Авриту были возвращены техфабы отделов. Второй раз.
+  id: 218
+  time: '2026-10-09T13:22:02.0000000+00:00'
+  prNumber: 486
+  url: https://github.com/ArcaneSS14/arcane/pull/486
+  media:
+    - >-
+      https://i.postimg.cc/Kvxs3Qt5/avrite-kargo.jpg)](https://postimg.cc/LhQVrtCq
+    - https://i.postimg.cc/sX5wvZXX/avrite-RND.jpg)](https://postimg.cc/gXkv7j3F
+    - https://i.postimg.cc/jjw8Y1YX/avrite-IO.jpg)](https://postimg.cc/rdTGSQm0
+    - >-
+      https://i.postimg.cc/tJ5kzQFT/avrite-service.jpg)](https://postimg.cc/YLvQpPnK
+- author: mxgnvrx
+  changes:
+    - type: Tweak
+      message: >-
+        Разблокировка красного кода от лица ЦК перенесена с админ-призрака на
+        консоль связи Центрального командования; ход авторизации слышен в
+        командном канале станции.
+  id: 219
+  time: '2026-10-09T15:43:24.0000000+00:00'
+  prNumber: 489
+  url: https://github.com/ArcaneSS14/arcane/pull/489
+  media:
+    - >-
+      https://github.com/user-attachments/assets/11226169-8e1e-4e91-a096-aab0a4bb34d2
+    - >-
+      https://github.com/user-attachments/assets/4692014c-94b2-4d7c-9f54-8c0603500bb7
+- author: RabbitBat
+  changes:
+    - type: Fix
+      message: >-
+        Исправлен спрайт "плоские твисты в пучке", на котором губы оставили
+        цветовую палитру
+    - type: Fix
+      message: Исправлены слои наложения противогазов спонсоров
+  id: 220
+  time: '2026-10-10T09:55:35.0000000+00:00'
+  prNumber: 497
+  url: https://github.com/ArcaneSS14/arcane/pull/497
+  media:
+    - >-
+      https://github.com/user-attachments/assets/3a2cd83d-f47a-4fb0-8601-586d1f6739d3
+- author: RabbitBat, bulbo44kkey
+  changes:
+    - type: Add
+      message: Добавлена.... Черемша.
+  id: 221
+  time: '2026-10-10T11:07:00.0000000+00:00'
+  prNumber: 494
+  url: https://github.com/ArcaneSS14/arcane/pull/494
+  media:
+    - >-
+      https://github.com/user-attachments/assets/95fea5e9-06eb-4edf-b17f-7a59fcb634a1
+- author: mxgnvrx
+  changes:
+    - type: Add
+      message: >-
+        Этапы операций выполняются кликом хирургическим инструментом по лежащему
+        пациенту; при нескольких вариантах открывается меню у курсора.
+    - type: Tweak
+      message: >-
+        Окно хирургии стало картой операции: кукла тела следует таргетингу, у
+        каждой операции видна вся цепочка этапов и нужные инструменты.
+    - type: Fix
+      message: >-
+        Отрезанные конечности, кисти и стопы находятся таргетингом и пришиваются
+        обратно в правильный слот.
+    - type: Fix
+      message: >-
+        Пришитая часть тела снова лечится, а неподходящая часть в руке больше не
+        скармливается пациенту.
+  id: 222
+  time: '2026-10-10T12:10:31.0000000+00:00'
+  prNumber: 483
+  url: https://github.com/ArcaneSS14/arcane/pull/483
+  media:
+    - >-
+      https://github.com/user-attachments/assets/4340f3a3-c4c3-401e-bd63-e2c8c5796d01
+    - >-
+      https://github.com/user-attachments/assets/1826911d-32e0-48ce-a9a3-23915e76fc5e
+    - >-
+      https://github.com/user-attachments/assets/2e2479ae-a986-4435-8947-23e2c72d868d
+- author: RabbitBat, bulbo44kkey
+  changes:
+    - type: Add
+      message: Добавлен "Пушистый виляющий хвост" для расы Людей, Фелинидов, Таяранов
+  id: 223
+  time: '2026-10-10T12:20:53.0000000+00:00'
+  prNumber: 495
+  url: https://github.com/ArcaneSS14/arcane/pull/495
+  media:
+    - >-
+      https://github.com/user-attachments/assets/54bb7da7-978d-40c6-9d67-1c52cfb6bda7
+- author: mxgnvrx
+  changes:
+    - type: Fix
+      message: В окне операции должна отображается кукла тела вместо текстуры ошибки.
+  id: 224
+  time: '2026-10-10T18:33:30.0000000+00:00'
+  prNumber: 499
+  url: https://github.com/ArcaneSS14/arcane/pull/499
+  media:
+    - >-
+      https://github.com/user-attachments/assets/058e9128-c6c5-4882-a603-0836696222f1
+- author: seemah, NeGhostea
+  changes:
+    - type: Add
+      message: В кастомизацию родентий добавлен хвост тушканчика.
+  id: 225
+  time: '2026-10-11T09:32:10.0000000+00:00'
+  prNumber: 452
+  url: https://github.com/ArcaneSS14/arcane/pull/452
+  media:
+    - >-
+      https://github.com/user-attachments/assets/91e95023-307e-430e-8bd7-cc2e44bcc027
+- author: Kinar7
+  changes:
+    - type: Fix
+      message: РУ переводы предметов из всех фабов и автолата
+  id: 226
+  time: '2026-10-11T16:16:10.0000000+00:00'
+  prNumber: 503
+  url: https://github.com/ArcaneSS14/arcane/pull/503
+- author: uty206, HappyRoach, libelyarnuy_pizdohvost
+  changes:
+    - type: Tweak
+      message: Станция центрального командования и фланд обновлены
+    - type: Tweak
+      message: 'Обновлён терминал. '
+    - type: Add
+      message: Добавлены новые блюспейс дормы "Сауна".
+  id: 227
+  time: '2026-10-13T02:43:01.0000000+00:00'
+  prNumber: 500
+  url: https://github.com/ArcaneSS14/arcane/pull/500
+  media:
+    - >-
+      https://github.com/user-attachments/assets/bf835bf0-17e4-41f2-93f7-dc26c090bc72
+- author: ReWAFFlution
+  changes:
+    - type: Add
+      message: >-
+        Отбеливатель теперь очищает грязь с одежды. Вода менее эффективна в
+        данном плане.
+    - type: Add
+      message: >-
+        Теперь в стиралке могут застрять люди до роста 212 см, и шириной в 43
+        см.
+    - type: Fix
+      message: >-
+        Инструменты вместо вставления в стиралку отдают приоритет взаимодействия
+        с ней(откручивание, разборка)
+    - type: Fix
+      message: >-
+        Если цель засовывания в стиралку будет двигаться, действие засовывание
+        отмениться.
+    - type: Tweak
+      message: Цены на все вещи из ткацково станка были подрезаны.
+    - type: Tweak
+      message: Хилиум и Нитриум были сильно порезаны.
+    - type: Tweak
+      message: Жилету из дюраткани были порезаны резисты до обычного бронежилета.
+  id: 228
+  time: '2026-10-13T13:55:13.0000000+00:00'
+  prNumber: 492
+  url: https://github.com/ArcaneSS14/arcane/pull/492
+- author: 'bulbo44kkey, RabbitBat '
+  changes:
+    - type: Tweak
+      message: Изменены спрайты юбки-комбинезона артиста и её парика.
+    - type: Tweak
+      message: >-
+        Изменено содержимое лотерейного ящика, теперь у вас есть шанс найти там
+        Черемшу
+  id: 229
+  time: '2026-10-13T16:05:10.0000000+00:00'
+  prNumber: 504
+  url: https://github.com/ArcaneSS14/arcane/pull/504
+  media:
+    - >-
+      https://github.com/user-attachments/assets/bf2dc546-8871-4752-8035-d2ab25f10ea0
+- author: Kinar7
+  changes:
+    - type: Add
+      message: Мехи могут октрывать шлюзы будто с помощью челюстей жизин
+  id: 230
+  time: '2026-10-13T18:10:39.0000000+00:00'
+  prNumber: 505
+  url: https://github.com/ArcaneSS14/arcane/pull/505
+- author: ALFAPRO
+  changes:
+    - type: Tweak
+      message: На карте Chloris на СМ больше нет лишних урановых окон.
+    - type: Tweak
+      message: Утильмат на аванпосте Интек больше не требует доступ.
+    - type: Tweak
+      message: На аванпост лаваленда добавили стиралки.
+    - type: Tweak
+      message: В ботании Saltern появился биогенератор.
+  id: 231
+  time: '2026-10-14T11:37:54.0000000+00:00'
+  prNumber: 510
+  url: https://github.com/ArcaneSS14/arcane/pull/510
+- author: seemah
+  changes:
+    - type: Add
+      message: Добавлена помывка игроков ыы14 (душ c функционалом раковины).
+    - type: Add
+      message: Портирована бобда.
+    - type: Add
+      message: Портирована стойка с RMC.
+  id: 232
+  time: '2026-10-14T11:41:10.0000000+00:00'
+  prNumber: 479
+  url: https://github.com/ArcaneSS14/arcane/pull/479
+  media:
+    - >-
+      https://github.com/user-attachments/assets/87d8c2fc-2ada-4622-9e5a-73d292606f94
+    - >-
+      https://github.com/user-attachments/assets/bab9d256-4d95-441a-8385-6c3519db277d
+    - >-
+      https://github.com/user-attachments/assets/8bb2434f-e480-40a3-806b-32ce1d0a47ff
+- author: RabbitBat
+  changes:
+    - type: Fix
+      message: >-
+        Исправлена ошибка, из-за которой нельзя было переключать противогаз "под
+        волосами" и "над волосами".
+  id: 233
+  time: '2026-10-14T22:36:34.0000000+00:00'
+  prNumber: 509
+  url: https://github.com/ArcaneSS14/arcane/pull/509
+  media:
+    - >-
+      https://github.com/user-attachments/assets/20e4ef6f-3339-4945-a896-ecc06bf8e16a
+    - >-
+      https://github.com/user-attachments/assets/4e97b08b-f6c7-4d6e-8f1a-aaec67d189c3
+- author: RabbitBat
+  changes:
+    - type: Fix
+      message: Исправлен спрайт открытого состояния тыквенных бутылок ёкаев (Oni)
+    - type: Fix
+      message: Исправлена проверка Target при передаче предмета целевому игроку
+  id: 234
+  time: '2026-10-14T23:04:00.0000000+00:00'
+  prNumber: 513
+  url: https://github.com/ArcaneSS14/arcane/pull/513
+- author: mxgnvrx
+  changes:
+    - type: Fix
+      message: Метки на отрубленных частях тела возвращаются при восстановлении тела.
+    - type: Fix
+      message: Виды без собственных глаз не слепнут после удаления вставленных глаз.
+    - type: Fix
+      message: Трэлл не теряет врождённое ночное зрение после освобождения.
+    - type: Fix
+      message: Обман смерти дьявола срабатывает после отрубания головы.
+    - type: Fix
+      message: >-
+        Нажатие по трупу разделываемого существа теперь разделывает его, а не
+        делает шаг операции.
+    - type: Fix
+      message: Тенеморф больше не лечится от света при большом количестве треллов.
+    - type: Tweak
+      message: Потеря трелла снижает сопротивление тенелинга свету.
+    - type: Tweak
+      message: Полный иммунитет к свету даёт только "Пустота".
+    - type: Fix
+      message: >-
+        Несколько тенеморфов и младших тенеморфов одновременно получают урон от
+        света и лечатся в тени.
+  id: 235
+  time: '2026-10-14T23:19:42.0000000+00:00'
+  prNumber: 508
+  url: https://github.com/ArcaneSS14/arcane/pull/508
+  media:
+    - >-
+      https://github.com/user-attachments/assets/9c01c4ea-ff3d-42c5-923a-3f74f6419e4d
+    - >-
+      https://github.com/user-attachments/assets/f1d3d9be-60c8-4dbd-a793-2f07cb4bcafa
+    - >-
+      https://github.com/user-attachments/assets/d9f458f1-e3a7-412a-8b4f-6a814b629807
+    - >-
+      https://github.com/user-attachments/assets/8bdbf503-73e7-48e0-b005-01ed27718232
+    - >-
+      https://github.com/user-attachments/assets/f34dbac6-4441-414d-8915-506716deb67c
+    - >-
+      https://github.com/user-attachments/assets/d492c26c-3111-4e25-8245-d96a894985d1
+    - >-
+      https://github.com/user-attachments/assets/8eab7fe7-de7b-49ce-82ca-2ff023a944c2
+    - >-
+      https://github.com/user-attachments/assets/5d9e0e1f-2dad-48b9-bc79-c270bff1eb2b
+    - >-
+      https://github.com/user-attachments/assets/722168e5-4473-48e9-8f8e-ea4dfc80f164
+    - >-
+      https://github.com/user-attachments/assets/c6309097-65c1-4ca4-851e-166ef99bedea
+    - >-
+      https://github.com/user-attachments/assets/eea56d2a-25d9-49f6-a1ba-b01872aef781
+- author: Kinar7
+  changes:
+    - type: Fix
+      message: >-
+        Множители возбуждения и стонов в панели взаимодействий теперь действуют
+        и на чужие взаимодействия с вами. 0% больше не дает другим игрокам вас
+        возбуждать.
+    - type: Tweak
+      message: >-
+        Настройки множителей в панели взаимодействий сохраняются между
+        открытиями.
+  id: 236
+  time: '2026-10-15T00:04:17.0000000+00:00'
+  prNumber: 514
+  url: https://github.com/ArcaneSS14/arcane/pull/514
+- author: Kat_L
+  changes:
+    - type: Fix
+      message: >-
+        Призраки больше не могут провести обстрел с консоли управления
+        артиллерийскими орудиями
+  id: 237
+  time: '2026-10-15T04:08:34.0000000+00:00'
+  prNumber: 515
+  url: https://github.com/ArcaneSS14/arcane/pull/515
+- author: Kinar7
+  changes:
+    - type: Tweak
+      message: >-
+        Ветка арсенала в R&D пересобрана: пули получить сложнее, лазеры проще.
+        Вся ветка стоит 175к вместо 180к.
+    - type: Add
+      message: Отдельная технология "Урановые боеприпасы".
+    - type: Fix
+      message: >-
+        Диск технологий 1 уровня больше не может выдать лазерный карабин или
+        лазерную пушку.
+    - type: Fix
+      message: Продвинутые эмиттеры больше не висят посреди ветки СБ.
+    - type: Tweak
+      message: >-
+        Транквилизирующие патроны для дробовиков теперь содержат 15 ед.
+        хлоралгидрата вместо 7. Броня теперь снижает дозу транквилизатора. При
+        защите от Колющего урона от 33% и выше транквилиз тор не действует. Все
+        что ниже серьезно уменьшают дозу реагента. К примеру 10% резиста уберут
+        30% дозы, 20 резисты 60% дозы
+  id: 238
+  time: '2026-10-15T15:30:17.0000000+00:00'
+  prNumber: 501
+  url: https://github.com/ArcaneSS14/arcane/pull/501
+  media:
+    - >-
+      https://github.com/user-attachments/assets/5ddebf0c-e9ab-41c2-8473-453c3ed62e96
+- author: bulbo44kkey, RabbitBat
+  changes:
+    - type: Add
+      message: >-
+        Добавлена система, при которой одежда теперь может показывать
+        дополнительные слои на персонаже в зависимости от содержимого её
+        контейнеров.
+    - type: Add
+      message: >-
+        Добавлено Строгое платье Горничной, Костюм Дворецкого, Белые чулки с
+        разгрузкой, Фуражка Горничной, Уборочный противогаз, Поясная сумка
+        Горничной Командования, Сумка Горничной Командования, Уборочный пояс с
+        бантом в лодаут.
+    - type: Add
+      message: >-
+        Добавлен в Dressmate Белые чулки с разгрузкой, Фуражка Горничной,
+        Строгое платье Горничной, Костюм Дворецкого.
+    - type: Add
+      message: >-
+        Добавлено в EMAGнутый УборМат  Уборочный пояс с бантом и Строгое платье
+        Горничной.
+  id: 239
+  time: '2026-10-17T13:36:30.0000000+00:00'
+  prNumber: 519
+  url: https://github.com/ArcaneSS14/arcane/pull/519
+  media:
+    - >-
+      https://github.com/user-attachments/assets/8e8cd43a-d9fc-4f4f-b39c-a099acabb4fa
+    - >-
+      https://github.com/user-attachments/assets/da5491fc-7ae1-4758-bf4f-4445712a6da0

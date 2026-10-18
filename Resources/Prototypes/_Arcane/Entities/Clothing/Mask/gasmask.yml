@@ -1,5 +1,27 @@
 - type: entity
+  parent: ClothingMaskGas
+  id: ClothingMaskGasCommandPatreon
+  components:
+  - type: HideLayerClothing
+    slots:
+    - Hair
+    - HeadTop
+    - HeadSide
+
+- type: entity
   parent: ClothingMaskGasCaptain
+  id: ClothingMaskGasCommandArmorPatreon
+  components:
+  - type: HideLayerClothing
+    slots:
+    - Hair
+    - HeadTop
+    - HeadSide
+
+# Sponsor
+
+- type: entity
+  parent: ClothingMaskGasCommandArmorPatreon
   id: ClothingMaskGasCaptainPatreon
   name: gas mask captain
   description: A face-covering mask that can be connected to an air supply.
@@ -10,7 +32,7 @@
     sprite: _Arcane/Clothing/Mask/gascaptain.rsi
 
 - type: entity
-  parent: ClothingMaskGas
+  parent: ClothingMaskGasCommandPatreon
   id: ClothingMaskGasCEPatreon
   name: gas mask ce
   components:
@@ -20,7 +42,7 @@
     sprite: _Arcane/Clothing/Mask/gasce.rsi
 
 - type: entity
-  parent: ClothingMaskGas
+  parent: ClothingMaskGasCommandPatreon
   id: ClothingMaskGasCMOPatreon
   name: gas mask cmo
   components:
@@ -30,7 +52,7 @@
     sprite: _Arcane/Clothing/Mask/gascmo.rsi
 
 - type: entity
-  parent: ClothingMaskGas
+  parent: ClothingMaskGasCommandPatreon
   id: ClothingMaskGasHoPPatreon
   name: gas mask hop
   components:
@@ -40,7 +62,7 @@
     sprite: _Arcane/Clothing/Mask/gashop.rsi
 
 - type: entity
-  parent: ClothingMaskGasCaptainPatreon
+  parent: ClothingMaskGasCommandArmorPatreon
   id: ClothingMaskGasHoSPatreon
   name: gas mask hos
   components:
@@ -50,7 +72,7 @@
     sprite: _Arcane/Clothing/Mask/gashos.rsi
 
 - type: entity
-  parent: ClothingMaskGas
+  parent: ClothingMaskGasCommandPatreon
   id: ClothingMaskGasQMPatreon
   name: gas mask qm
   components:
@@ -60,7 +82,7 @@
     sprite: _Arcane/Clothing/Mask/gasqm.rsi
 
 - type: entity
-  parent: ClothingMaskGas
+  parent: ClothingMaskGasCommandPatreon
   id: ClothingMaskGasRDPatreon
   name: gas mask rd
   components:
@@ -68,3 +90,17 @@
     sprite: _Arcane/Clothing/Mask/gasrd.rsi
   - type: Clothing
     sprite: _Arcane/Clothing/Mask/gasrd.rsi
+
+# Command
+
+- type: entity
+  parent: ClothingMaskGas
+  id: ClothingMaskGasCommaid
+  name: housekeeping gas mask
+  description: A specialized gas mask designed for heavy cleaning duties.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Mask/gascommaid.rsi
+    state: icon
+  - type: Clothing
+    sprite: _Arcane/Clothing/Mask/gascommaid.rsi
